@@ -276,6 +276,8 @@
     <Content Include="Views\Cts\LeadershipProfile\CTSProfile.cshtml" />
     <Content Include="Views\Cts\LeadershipProfile\Articles.cshtml" />
     <Content Include="Views\Cts\Listing\StartUpJoiners.cshtml" />
+    <Content Include="App_Config\Include\Cts\Cts.MyCompany.SiteDefinition.config" />
+    <Content Include="App_Config\Include\Cts\Cts.YourCompany.SiteDefinition.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
