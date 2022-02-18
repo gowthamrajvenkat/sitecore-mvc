@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{5D744331-0771-4E72-93F1-8C5C34814615}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{10B8CDB3-93C7-4DE4-A26D-6C84CD2286A1}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cts.Project.Cts", "Cts.Project.Cts\Cts.Project.Cts.vbproj", "{00617BAD-3DB2-4368-B4E3-D11A4981A6E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cts", "Cts", "{42E1C899-6F22-42A8-A7F9-28DF39F99DBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cts.Project.Cts1", "Cts.Project.Cts1\Cts.Project.Cts1.csproj", "{2882ACD1-9919-4C02-9E71-F5BD0E5F5B1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{31BEFB87-EB09-4397-85D7-7FFF778F581F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00617BAD-3DB2-4368-B4E3-D11A4981A6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00617BAD-3DB2-4368-B4E3-D11A4981A6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00617BAD-3DB2-4368-B4E3-D11A4981A6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00617BAD-3DB2-4368-B4E3-D11A4981A6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2882ACD1-9919-4C02-9E71-F5BD0E5F5B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2882ACD1-9919-4C02-9E71-F5BD0E5F5B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2882ACD1-9919-4C02-9E71-F5BD0E5F5B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2882ACD1-9919-4C02-9E71-F5BD0E5F5B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{00617BAD-3DB2-4368-B4E3-D11A4981A6E4} = {42E1C899-6F22-42A8-A7F9-28DF39F99DBF}
+		{42E1C899-6F22-42A8-A7F9-28DF39F99DBF} = {10B8CDB3-93C7-4DE4-A26D-6C84CD2286A1}
+		{2882ACD1-9919-4C02-9E71-F5BD0E5F5B1A} = {42E1C899-6F22-42A8-A7F9-28DF39F99DBF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Caching.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.ServiceBus.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Configuration.6.0.1304.0\lib\NET45
+		SolutionGuid = {69767A25-7839-4D5B-B599-269C31011E84}
+	EndGlobalSection
+EndGlobal

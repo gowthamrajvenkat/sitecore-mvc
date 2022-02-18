@@ -1,0 +1,11 @@
+﻿@model IEnumerable<Cts.Project.Cts1.Models.Article>
+
+<div><h2>Authored Articles</h2></div>
+
+<div>
+    @foreach (var article in Model)
+    {
+        <div><a href="@article.ArticleUrl">@article.ArticleTitle</a></div>
+        <div>@article.ArticleBrief</div>
+    }
+</div>
