@@ -278,16 +278,24 @@
     <Content Include="Views\Cts\Listing\StartUpJoiners.cshtml" />
     <Content Include="App_Config\Include\Cts\Cts.MyCompany.SiteDefinition.config" />
     <Content Include="App_Config\Include\Cts\Cts.YourCompany.SiteDefinition.config" />
+    <Content Include="Views\Cts\Common\Breadcrumb.cshtml" />
+    <Content Include="Views\Cts\LeadershipProfile\CommentsForm.cshtml" />
+    <Content Include="Views\Cts\LeadershipProfile\ThankYou.cshtml" />
+    <Content Include="Views\Cts\LeadershipProfile\DisplayComments.cshtml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RazorGeneratorMvcStart.cs" />
+    <Compile Include="Controllers\CommentsFormController.cs" />
+    <Compile Include="Controllers\FilePathController.cs" />
     <Compile Include="Controllers\LeadershipProfileController.cs" />
     <Compile Include="Controllers\StartUpJoinersController.cs" />
     <Compile Include="Models\Article.cs" />
+    <Compile Include="Models\Comment.cs" />
     <Compile Include="Models\CTSProfile.cs" />
     <Compile Include="Models\LeadershipCard.cs" />
     <Compile Include="Models\LeadershipProfile.cs" />
+    <Compile Include="Models\NavigationItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -302,6 +310,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\CommentsForm\" />
+    <Folder Include="Views\FilePath\" />
     <Folder Include="Views\StartUpJoiners\" />
   </ItemGroup>
   <PropertyGroup>

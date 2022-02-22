@@ -1,0 +1,8 @@
+﻿@model IEnumerable<Cts.Project.Cts1.Models.NavigationItem>
+
+<div>
+    @foreach (var navItem in Model)
+    {
+        <a href="@navItem.NavUrl">> @navItem.NavTitle</a>
+    }
+</div>
