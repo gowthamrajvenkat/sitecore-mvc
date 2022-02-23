@@ -1,0 +1,38 @@
+﻿---
+ID: "568ae7ae-5802-420c-9b9b-151015405ee5"
+Parent: "3e0643fd-7c57-4729-9c6f-33be654f7e64"
+Template: "c545ebcf-7811-4331-999e-f035dffc624b"
+Path: /sitecore/content/Company/mycompany/home/Listing/StartUpJoiners/Dinesh/CTSProfile
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 350
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220216T031911Z
+    - ID: "866a5789-c0cb-490c-a424-e96767707dcc"
+      Hint: LeadershipProfile
+      Value: |
+        <link id="{3E0643FD-7C57-4729-9C6F-33BE654F7E64}" querystring="" text="" anchor="" url="/Company/mycompany/home/Listing/StartUpJoiners/Dinesh" title="" class="" linktype="internal" />
+    - ID: "97d805b3-1a6d-42c7-a082-5a79cadae986"
+      Hint: IsNavigable
+      Type: Checkbox
+      Value: 1
+    - ID: "a308ad2f-59fb-4572-aee1-17a58fb69e95"
+      Hint: DateOfJoining
+      Value: 20220131T183000Z
+    - ID: "a4b85d1e-0c67-4b7f-998d-8c5ffddf25d7"
+      Hint: LastName
+      Value: Venkat
+    - ID: "a65b41aa-5497-407e-8419-24f9adcd0c1f"
+      Hint: EmailID
+      Value: gowthamvenkat@cts.com
+    - ID: "b67bc4ac-3a2b-4173-b0fe-588cfe70b7d1"
+      Hint: FirstName
+      Value: Gowtham

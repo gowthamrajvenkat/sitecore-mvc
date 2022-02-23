@@ -1,0 +1,24 @@
+﻿---
+ID: "de806d37-d63b-4723-8513-af800e8965b3"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "3cd4635d-c74e-43ea-9461-a780c19e8689"
+Path: /sitecore/content/Article1402
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220214T032336Z
+    - ID: "820b7153-7ca3-4226-96b0-1496420773b9"
+      Hint: Title
+      Value: Article1402
+    - ID: "de884255-8da7-4af1-baac-73155e5e86be"
+      Hint: PublishedDate
+      Value: 20220214T000000Z

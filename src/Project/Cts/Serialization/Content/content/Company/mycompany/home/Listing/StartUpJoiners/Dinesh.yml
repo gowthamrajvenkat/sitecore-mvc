@@ -1,0 +1,42 @@
+﻿---
+ID: "3e0643fd-7c57-4729-9c6f-33be654f7e64"
+Parent: "76a924df-96fd-4d90-b9b5-3fafa8a05d04"
+Template: "f9b28499-d6b3-487e-81c0-f2e536fd0c5f"
+Path: /sitecore/content/Company/mycompany/home/Listing/StartUpJoiners/Dinesh
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015cef9f-c102-4d62-8b77-f7979b65207a"
+      Hint: Image
+      Value: |
+        <image mediaid="{574FCE55-82CD-423C-B180-90AAF9AAE6B2}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220215T023505Z
+    - ID: "300ae1c0-2dcd-410f-b354-58585cb90d38"
+      Hint: ProfileBrief
+      Value: Dinesh is a CEO of the company
+    - ID: "97d805b3-1a6d-42c7-a082-5a79cadae986"
+      Hint: IsNavigable
+      Type: Checkbox
+      Value: 1
+    - ID: "a1a2c5ab-b176-4416-a256-de8c4d1645a4"
+      Hint: Articles
+      Type: Treelist
+      Value: |
+        {E779E05C-019E-481D-AAAC-8C4C7AAE0100}
+        {475A1F7C-B3A0-461C-ABD8-D2F441D6298C}
+    - ID: "a3cfdeb7-de27-4d44-9ddb-7bcbdda81905"
+      Hint: LeaderName
+      Value: DineshKumar
+    - ID: "c5ae574b-5def-41b4-94be-d3fe310d16ac"
+      Hint: ProfileDetail
+      Value: |
+        <link id="{568AE7AE-5802-420C-9B9B-151015405EE5}" querystring="" text="" anchor="" url="/Company/mycompany/home/Listing/StartUpJoiners/Dinesh/CTSProfile" title="" class="" linktype="internal" />

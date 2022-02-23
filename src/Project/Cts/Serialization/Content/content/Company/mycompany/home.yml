@@ -1,0 +1,37 @@
+﻿---
+ID: "7180850d-9376-40fd-9c50-3e7251029653"
+Parent: "61640b91-1b88-4440-81a4-35f3d183a07f"
+Template: "717e4bc6-009a-43d3-a277-73b33cf895a6"
+Path: /sitecore/content/Company/mycompany/home
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{3F44724D-C059-4C68-BBA3-3E63FA638F37}"
+          p:after="*[1=2]"
+          s:ds="{E779E05C-019E-481D-AAAC-8C4C7AAE0100}"
+          s:id="{ECBA413A-961C-48C2-8AC6-EA126F042C92}"
+          s:par=""
+          s:ph="cts-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220221T030058Z
+    - ID: "97d805b3-1a6d-42c7-a082-5a79cadae986"
+      Hint: IsNavigable
+      Type: Checkbox
+      Value: 1

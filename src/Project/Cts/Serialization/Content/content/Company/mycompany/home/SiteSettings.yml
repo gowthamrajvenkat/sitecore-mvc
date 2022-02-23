@@ -1,0 +1,14 @@
+﻿---
+ID: "3ede9dff-ae3d-491a-b8e0-a70b07035ed5"
+Parent: "7180850d-9376-40fd-9c50-3e7251029653"
+Template: "f94665ba-4bce-4f9c-9796-19a9062f7be0"
+Path: /sitecore/content/Company/mycompany/home/SiteSettings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220218T031840Z

@@ -1,0 +1,24 @@
+﻿---
+ID: "524a5b0c-96f1-4990-bb50-fe2a54815308"
+Parent: "e779e05c-019e-481d-aaac-8c4c7aae0100"
+Template: "fdb313f2-a6cc-46fa-a2ee-3b735765cdb6"
+Path: "/sitecore/content/Independence-Day/commenter1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "012dff32-87e1-4db3-80a6-54aa1754fd30"
+      Hint: EmailId
+      Value: gow@mail.com
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220222T045004Z
+    - ID: "4396faef-85e0-4e00-ab15-b4661919f41b"
+      Hint: Comments
+      Value: some comments
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        extranet\Anonymous

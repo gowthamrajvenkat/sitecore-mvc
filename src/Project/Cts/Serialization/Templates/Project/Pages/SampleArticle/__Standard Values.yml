@@ -1,0 +1,60 @@
+﻿---
+ID: "a545ea4f-9411-47a3-bfe8-b1ad2f0b08fc"
+Parent: "3cd4635d-c74e-43ea-9461-a780c19e8689"
+Template: "3cd4635d-c74e-43ea-9461-a780c19e8689"
+Path: /sitecore/templates/Project/Pages/SampleArticle/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{DF9DAEFB-CF9C-430A-99A0-38D07D08AFB5}">
+        <r
+          id="{1C9A7DA9-A4BD-4AFB-A9D3-B11D806ED868}"
+          ph="cts-main"
+          uid="{370584F4-8844-42F5-98E7-9C94182F4103}" />
+        <r
+          id="{CAD3EE4A-BA81-45B7-8C70-F6AFEF8CFCEC}"
+          ph="cts-main"
+          uid="{C5FA228D-BD53-4E8A-9AD4-B04CF37666D4}" />
+        <r
+          id="{90511C35-EDA0-45FA-ACE3-7D19840025D1}"
+          ph="cts-main"
+          uid="{4ACAD5C4-3AFB-4274-A694-03E87AEA1BB7}" />
+        <r
+          id="{D8BF85D6-C278-4EDC-872C-1F0DF328DD22}"
+          ph="cts-main"
+          uid="{90767406-EBE6-473C-BCCA-4B449BE41C8A}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d54ff90-8bd1-42bf-8cb4-cb436940231e"
+      Hint: Author
+      Value: Enter author
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T045043Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "820b7153-7ca3-4226-96b0-1496420773b9"
+      Hint: Title
+      Value: $name
+    - ID: "92f47d0c-02ff-4839-b9ab-10654a072baf"
+      Hint: DetailedBlog
+      Value: Enter a content
+    - ID: "de884255-8da7-4af1-baac-73155e5e86be"
+      Hint: PublishedDate
+      Value: $date
+    - ID: "fdcf448d-fd22-4949-9dcc-d61157ad5120"
+      Hint: Brief
+      Value: Enter a brief

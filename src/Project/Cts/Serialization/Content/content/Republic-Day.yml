@@ -1,0 +1,41 @@
+﻿---
+ID: "475a1f7c-b3a0-461c-abd8-d2f441d6298c"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "3cd4635d-c74e-43ea-9461-a780c19e8689"
+Path: "/sitecore/content/Republic-Day"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "11555f43-acf7-422d-a30e-b60473a75e8c"
+      Hint: HeroImage
+      Value: |
+        <image mediaid="{574FCE55-82CD-423C-B180-90AAF9AAE6B2}" />
+    - ID: "1d54ff90-8bd1-42bf-8cb4-cb436940231e"
+      Hint: Author
+      Value: GV
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T042936Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "820b7153-7ca3-4226-96b0-1496420773b9"
+      Hint: Title
+      Value: asdasda
+    - ID: "92f47d0c-02ff-4839-b9ab-10654a072baf"
+      Hint: DetailedBlog
+      Value: asdadsada
+    - ID: "de884255-8da7-4af1-baac-73155e5e86be"
+      Hint: PublishedDate
+      Value: 20220211T043000Z
+    - ID: "fdcf448d-fd22-4949-9dcc-d61157ad5120"
+      Hint: Brief
+      Value: asdasdad

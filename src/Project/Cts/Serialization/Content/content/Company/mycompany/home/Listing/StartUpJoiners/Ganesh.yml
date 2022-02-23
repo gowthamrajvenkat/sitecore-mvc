@@ -1,0 +1,31 @@
+﻿---
+ID: "c166d783-8ce4-46eb-88ea-cf674087df79"
+Parent: "76a924df-96fd-4d90-b9b5-3fafa8a05d04"
+Template: "f9b28499-d6b3-487e-81c0-f2e536fd0c5f"
+Path: /sitecore/content/Company/mycompany/home/Listing/StartUpJoiners/Ganesh
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T050854Z
+    - ID: "300ae1c0-2dcd-410f-b354-58585cb90d38"
+      Hint: ProfileBrief
+      Value: profile brief of ganesh
+    - ID: "97d805b3-1a6d-42c7-a082-5a79cadae986"
+      Hint: IsNavigable
+      Type: Checkbox
+      Value: 1
+    - ID: "a3cfdeb7-de27-4d44-9ddb-7bcbdda81905"
+      Hint: LeaderName
+      Value: Ganesh
+    - ID: "c5ae574b-5def-41b4-94be-d3fe310d16ac"
+      Hint: ProfileDetail
+      Value: |
+        <link id="{04C71509-9E22-4E7F-91AB-16826C5B9990}" querystring="" text="" anchor="" url="/Company/mycompany/home/Listing/StartUpJoiners/Ganesh/Ganesh-profile" title="" class="" linktype="internal" />
+    - ID: "dd78f4c0-4fe2-4634-aa60-a04823df463e"
+      Hint: DateOfJoining
+      Value: 20220202T183000Z

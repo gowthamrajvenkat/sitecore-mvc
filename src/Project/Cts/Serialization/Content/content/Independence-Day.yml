@@ -1,0 +1,73 @@
+﻿---
+ID: "e779e05c-019e-481d-aaac-8c4c7aae0100"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "3cd4635d-c74e-43ea-9461-a780c19e8689"
+Path: "/sitecore/content/Independence-Day"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{91C7FC2A-F7F2-4009-8682-1566DA105A46}"
+          p:before="*"
+          s:id="{885B8314-7D8C-4CBB-8000-01421EA8F406}"
+          s:ph="main" />
+        <r
+          uid="{8294A162-E90E-40E7-B77D-B11C67146973}"
+          p:after="r[@uid='{91C7FC2A-F7F2-4009-8682-1566DA105A46}']"
+          s:ds=""
+          s:id="{CE4ADCFB-7990-4980-83FB-A00C1E3673DB}"
+          s:par=""
+          s:ph="/main/centercolumn"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{313EC274-B2FA-4989-898D-D7C625E80D47}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{05724634-E451-445D-8E7D-04452D0E3684}"
+          s:par=""
+          s:ph="/main/centercolumn/content"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "11555f43-acf7-422d-a30e-b60473a75e8c"
+      Hint: HeroImage
+      Value: |
+        <image mediaid="{574FCE55-82CD-423C-B180-90AAF9AAE6B2}" alt="Independence-Day-India" height="" width="" hspace="" vspace="" />
+    - ID: "1d54ff90-8bd1-42bf-8cb4-cb436940231e"
+      Hint: Author
+      Value: Gowthamraj V
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T031827Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "820b7153-7ca3-4226-96b0-1496420773b9"
+      Hint: Title
+      Value: Independence Day Blog
+    - ID: "92f47d0c-02ff-4839-b9ab-10654a072baf"
+      Hint: DetailedBlog
+      Value: |
+        <span style="background-color: #ffffff; color: #1a1a1a;">Independence Day</span><span style="background-color: #ffffff; color: #1a1a1a;">, in&nbsp;</span><a href="https://www.britannica.com/place/India" class="md-crosslink" style="color: #14599d; background-color: #ffffff;">India</a><span style="background-color: #ffffff; color: #1a1a1a;">, national&nbsp;</span><a href="https://www.britannica.com/topic/holiday" class="md-crosslink autoxref" style="color: #14599d; background-color: #ffffff;">holiday</a><span style="background-color: #ffffff; color: #1a1a1a;">&nbsp;celebrated annually on&nbsp;</span><a href="https://www.merriam-webster.com/dictionary/August" class="md-dictionary-link md-dictionary-tt-off" data-term="August" style="color: var(--black); background-color: #ffffff; border-bottom: 2px dotted var(--blue);">August</a><span style="background-color: #ffffff; color: #1a1a1a;">&nbsp;15. Independence Day marks the end of British rule in 1947 and the establishment of a free and independent Indian nation. It also marks the anniversary of the partition of the subcontinent into two countries, India and&nbsp;</span><a href="https://www.britannica.com/place/Pakistan" class="md-crosslink" style="color: #14599d; background-color: #ffffff;">Pakistan</a><span style="background-color: #ffffff; color: #1a1a1a;">, which occurred at midnight on August 14&ndash;15, 1947. (In Pakistan, Independence Day is celebrated on August 14.)</span>
+    - ID: "de884255-8da7-4af1-baac-73155e5e86be"
+      Hint: PublishedDate
+      Value: 20220211T032200Z
+    - ID: "fdcf448d-fd22-4949-9dcc-d61157ad5120"
+      Hint: Brief
+      Value: Blog post on the 72nd Independence day of India

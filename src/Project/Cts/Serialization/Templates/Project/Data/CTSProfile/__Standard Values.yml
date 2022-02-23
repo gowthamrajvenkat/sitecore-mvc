@@ -1,0 +1,42 @@
+﻿---
+ID: "49c25268-6958-4030-ad76-a96f959486bc"
+Parent: "c545ebcf-7811-4331-999e-f035dffc624b"
+Template: "c545ebcf-7811-4331-999e-f035dffc624b"
+Path: /sitecore/templates/Project/Data/CTSProfile/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{DF9DAEFB-CF9C-430A-99A0-38D07D08AFB5}">
+        <r
+          ds=""
+          id="{F0197020-22DA-4889-BE05-E46DE645C007}"
+          par=""
+          ph="cts-main"
+          uid="{67C0F908-C6FD-4849-9D68-58F5CC201C73}"
+          ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220216T024500Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "a4b85d1e-0c67-4b7f-998d-8c5ffddf25d7"
+      Hint: LastName
+      Value: $name
+    - ID: "b67bc4ac-3a2b-4173-b0fe-588cfe70b7d1"
+      Hint: FirstName
+      Value: $name

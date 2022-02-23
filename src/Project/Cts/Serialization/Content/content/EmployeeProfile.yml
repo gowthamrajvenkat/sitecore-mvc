@@ -1,0 +1,30 @@
+﻿---
+ID: "00f1c60c-170e-4acb-883c-5e5ab402cfe5"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "be51ce84-b53c-4ccc-b18e-2ce70a4c4725"
+Path: /sitecore/content/EmployeeProfile
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "10aa6199-ab4a-4e96-b4b1-3be1f104ea64"
+      Hint: DOB
+      Value: 20030510T183000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220214T044842Z
+    - ID: "94002665-4958-4781-b55e-ef16f026241b"
+      Hint: EmailID
+      Value: test@mail.com
+    - ID: "d87293fa-9ee5-420c-9da5-e84b098cf0ef"
+      Hint: PhoneNumber
+      Value: 1231231213
+    - ID: "f6f6e3b3-f21c-4b7b-a53c-82f29c337560"
+      Hint: Name
+      Value: EmployeeProfile
