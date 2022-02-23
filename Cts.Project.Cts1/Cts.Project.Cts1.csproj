@@ -282,11 +282,14 @@
     <Content Include="Views\Cts\LeadershipProfile\CommentsForm.cshtml" />
     <Content Include="Views\Cts\LeadershipProfile\ThankYou.cshtml" />
     <Content Include="Views\Cts\LeadershipProfile\DisplayComments.cshtml" />
+    <Content Include="Views\Cts\Common\FeaturedArticle.cshtml" />
+    <Content Include="App_Config\Include\Cts\Cts.Project.Cts1.Serialization.Config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RazorGeneratorMvcStart.cs" />
     <Compile Include="Controllers\CommentsFormController.cs" />
+    <Compile Include="Controllers\FeaturedArticlesController.cs" />
     <Compile Include="Controllers\FilePathController.cs" />
     <Compile Include="Controllers\LeadershipProfileController.cs" />
     <Compile Include="Controllers\StartUpJoinersController.cs" />
@@ -311,6 +314,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\CommentsForm\" />
+    <Folder Include="Views\FeaturedArticles\" />
     <Folder Include="Views\FilePath\" />
     <Folder Include="Views\StartUpJoiners\" />
   </ItemGroup>
