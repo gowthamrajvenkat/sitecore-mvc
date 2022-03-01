@@ -1,0 +1,28 @@
+﻿---
+ID: "0195824e-68a6-5bca-bd53-8739da84759e"
+Parent: "f2ba146c-f920-5ad4-82a3-27cd237f8a35"
+Template: "07fb75ae-f477-57e7-9150-5e3a81907d8c"
+Path: "/sitecore/content/molina/home/styleguide/Page Components/styleguide-jss-styleguide-section-B73482E131E5A083D77A50554BC74A4758E29636DF6824F6E2F272EE778C28A095/styleguide-jss-styleguide-section-B75151F05CFDC4CAFFE44E5BAED9D59BEA82565EC11CE75B7DEF3634495EC1DAB7"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ItemLink-10-item-0"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T050943Z
+    - ID: "25f7b238-2384-5820-99b6-523d8217ac51"
+      Hint: textField
+      Value: Referenced item textField
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"

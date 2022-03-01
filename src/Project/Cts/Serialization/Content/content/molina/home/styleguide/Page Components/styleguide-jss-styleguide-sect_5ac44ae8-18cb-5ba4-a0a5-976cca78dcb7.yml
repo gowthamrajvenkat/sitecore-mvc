@@ -1,0 +1,31 @@
+﻿---
+ID: "5ac44ae8-18cb-5ba4-a0a5-976cca78dcb7"
+Parent: "1005968f-626d-550d-899d-c1f2cf999640"
+Template: "5b58eac6-4fae-558b-90db-38df8dc4d7ae"
+Path: "/sitecore/content/molina/home/styleguide/Page Components/styleguide-jss-styleguide-section-66AF8F03-0B52-5425-A6AF-6FB54F2D64D9-0-Styleguide-Multilingual-1"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-Multilingual-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T050944Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "5034ad7a-8eb5-5f09-9bae-ff326a68e7d4"
+      Hint: heading
+      Value: Translation Patterns
+    - ID: "ff772cca-1d60-5757-9382-4d5cc365a596"
+      Hint: sample
+      Value: This text can be translated in en.yml

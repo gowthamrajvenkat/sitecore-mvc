@@ -1,0 +1,29 @@
+﻿---
+ID: "dae9981c-dc6f-44f0-b14f-f574418c9f87"
+Parent: "d527f1bb-9faf-5a1b-9b80-56b4b78a74c8"
+Template: "d990e3f1-9cfd-46c8-9824-d6309d0e51a9"
+Path: "/sitecore/content/molina/home/data-test-patientinfo"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T035900Z
+    - ID: "3878cd47-e541-46ac-85a0-23b62a36a437"
+      Hint: firstName
+      Value: john
+    - ID: "4133f108-52dc-44d0-b57c-a9af303203a4"
+      Hint: phoneNumber
+      Value: 9838402398
+    - ID: "5e12aa51-99b8-40bf-afe9-b50c18bc458c"
+      Hint: lastName
+      Value: smith
+    - ID: "d1db7f35-bb6b-4b19-8890-58c06ddf287a"
+      Hint: gender
+      Value: male
+    - ID: "f8e7b967-791a-48a3-ae6a-6a418f556f62"
+      Hint: dob
+      Value: "02-02-2002"

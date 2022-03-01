@@ -1,0 +1,28 @@
+﻿---
+ID: "d33a852c-bbd2-53ec-a5e4-0fb7693aff75"
+Parent: "f21411de-077c-57f9-81eb-5ff0509b19eb"
+Template: "21f8c6a4-9b49-52c9-8542-898f372879ae"
+Path: /sitecore/content/molina/Content/Styleguide/ContentListField/Item1
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Styleguide Content List Item 1 (Shared)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03bdb933-0445-5184-936d-6b7d0172ba91"
+      Hint: textField
+      Value: ContentList Demo (Shared) Item 1 Text Field
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T050940Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"

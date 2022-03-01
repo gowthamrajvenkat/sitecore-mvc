@@ -1,0 +1,28 @@
+﻿---
+ID: "67e27b57-1bfd-54b6-9c88-81b4984677f4"
+Parent: "34dc4c93-11dd-557a-bf90-b6463e86f251"
+Template: "21f8c6a4-9b49-52c9-8542-898f372879ae"
+Path: "/sitecore/content/molina/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7985C8DEA10AB2C5CC77ABC90CF4126F21840592E09B2C6DB07D84D314CDCE0D4/styleguide-jss-styleguide-section-B76CB8FB6A660296D91AE50FD7559AF62453A1891C9828A22C84E7E2A9914E7DD8"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ContentList-11-item-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03bdb933-0445-5184-936d-6b7d0172ba91"
+      Hint: textField
+      Value: Hello World Item 2
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T050943Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"

@@ -1,0 +1,28 @@
+﻿---
+ID: "e4922104-8f64-588b-a1a7-42ee9242d2cd"
+Parent: "96f03107-bd17-547a-a9d8-7233defb86c9"
+Template: "07fb75ae-f477-57e7-9150-5e3a81907d8c"
+Path: /sitecore/content/molina/Content/Styleguide/ItemLinkField/Item2
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Styleguide Item Link Item 2 (Shared)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T050940Z
+    - ID: "25f7b238-2384-5820-99b6-523d8217ac51"
+      Hint: textField
+      Value: ItemLink Demo (Shared) Item 2 Text Field
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"

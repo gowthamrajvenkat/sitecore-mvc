@@ -1,0 +1,32 @@
+﻿---
+ID: "70ecbef6-b29b-5438-b46d-bd94a03323f4"
+Parent: "0d3d7b09-d320-5ff7-b70e-86beaab9a1d1"
+Template: "0418b18b-ee94-56d6-adc3-c01f634079d8"
+Path: "/sitecore/content/molina/home/graphql/Page Components/graphql-jss-graphql-layout-A9FBC7CC-F00B-58A2-873B-4C70C726476C-0-GraphQL-ConnectedDemo-2"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "GraphQL-ConnectedDemo-2"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T050941Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "3e948e83-df18-54cd-97f6-5d8de6a0aae7"
+      Hint: sample2
+      Value: |
+        <link text="GraphQL lets you get structured field data too" target="_blank" url="https://www.sitecore.com" linktype="external" />
+    - ID: "d9bb6220-084b-582e-bf13-965d85e1a1ea"
+      Hint: sample1
+      Value: "Hello connected GraphQL world!"

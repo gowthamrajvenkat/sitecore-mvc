@@ -1,0 +1,36 @@
+﻿---
+ID: "628a0160-f8e4-5027-aa78-4b43d9d9eeda"
+Parent: "1005968f-626d-550d-899d-c1f2cf999640"
+Template: "6205ec52-c41b-5508-a842-3d35257c2b74"
+Path: "/sitecore/content/molina/home/styleguide/Page Components/styleguide-jss-styleguide-section-B78937DAD4FF4C1B82D6AEC0555633BBACC1FDD9F8CB46D9E358E84784A1E510EA"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Image-4"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T050942Z
+    - ID: "3b4974c3-7493-5a7c-8635-f0ff0975dabf"
+      Hint: sample2
+      Value: |
+        <image alt="Sitecore JSS Logo" mediaid="{78FE7056-10CC-53DB-87DB-C6027959169F}" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "46492313-9230-5194-af2f-5d5954b10a47"
+      Hint: sample1
+      Value: |
+        <image alt="Sitecore Logo" mediaid="{4CB1AAAF-7D57-5309-8F1E-153E4450254D}" />
+    - ID: "5034ad7a-8eb5-5f09-9bae-ff326a68e7d4"
+      Hint: heading
+      Value: Image

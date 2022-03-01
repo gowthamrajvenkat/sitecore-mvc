@@ -1,0 +1,22 @@
+﻿---
+ID: "cf35db47-4a75-51c4-ac87-0b0f3b39cb2c"
+Parent: "92e51c30-6eb8-548d-8415-887229a6f69c"
+Template: "92e51c30-6eb8-548d-8415-887229a6f69c"
+Path: "/sitecore/templates/Project/molina/Styleguide-RouteFields/__Standard Values"
+DB: master
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T050935Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport

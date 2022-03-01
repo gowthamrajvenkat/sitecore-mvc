@@ -1,0 +1,52 @@
+﻿---
+ID: "34dc4c93-11dd-557a-bf90-b6463e86f251"
+Parent: "1005968f-626d-550d-899d-c1f2cf999640"
+Template: "f9c49e19-8c29-5af4-aa58-f64f81eea992"
+Path: "/sitecore/content/molina/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7985C8DEA10AB2C5CC77ABC90CF4126F21840592E09B2C6DB07D84D314CDCE0D4"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ContentList-11"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T050943Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "5034ad7a-8eb5-5f09-9bae-ff326a68e7d4"
+      Hint: heading
+      Value: Content List
+    - ID: "6a947dd8-4436-5ef7-a057-1f1e5779027b"
+      Hint: sharedContentList
+      Type: Treelist
+      Value: |
+        {D33A852C-BBD2-53EC-A5E4-0FB7693AFF75}
+        {8291E5FE-47C8-5D5C-9662-0A233AED7F74}
+    - ID: "8a3c3f7f-2946-54ca-b042-aa7054cc8129"
+      Hint: localContentList
+      Type: Treelist
+      Value: |
+        {8924A7A6-E6B9-5B1A-9654-7986D01E6CF3}
+        {67E27B57-1BFD-54B6-9C88-81B4984677F4}
+    - ID: "e4045a20-0022-590e-b970-51658a496194"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Content Lists are a way to reference zero or more other content items.
+            Referenced items may be shared.
+            To reference a single content item, use an <em>Item Link</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Content List fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        
